@@ -1,0 +1,3 @@
+Essa é a área de desenvolvimento do trabalho, ou seja, aqui estão presentes apenas 1/3 das instâncias de algumas tabelas que são muito pesadas.
+
+O objetivo é tornar o processo de desenvolvimento mais eficiênte.
