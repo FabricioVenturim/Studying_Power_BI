@@ -23,7 +23,11 @@ O objetivo deste projeto é criar um painel de visualização de dados no Power 
 ## Instruções de Instalação
 
 1. Faça o download do Power BI Desktop em https://powerbi.microsoft.com/pt-br/desktop/
-2. Clone este repositório para sua máquina local: git clone https://github.com/[username]/dashboard-majestic.git
+2. Clone este repositório para sua máquina local: 
+
+~~~git
+git clone git@github.com:FabricioVenturim/Power_BI.git
+~~~
 3. Abra o arquivo .pbix no Power BI Desktop
 4. Explore as funcionalidades do dashboard
 
