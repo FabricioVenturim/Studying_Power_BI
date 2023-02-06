@@ -5,7 +5,7 @@ Este repositório é destinado ao desenvolvimento de um dashboard para a empresa
 
 Este projeto foi baseado no curso de [Power BI DAX](https://www.udemy.com/course/powerbi-dax/learn/lecture/29012640?start=0#overview) disponível na plataforma Udemy. Acompanhando este curso e aplicando os conhecimentos adquiridos, foi possível desenvolver o dashboard da empresa Majestic.
 
-**Além de explorar as funcionalidades do dashboard diretamente no Power BI Desktop, você também pode ver uma prévia do mesmo no arquivo PDF incluído neste repositório.**
+**Além de explorar as funcionalidades do dashboard diretamente no Power BI Desktop, você também pode ver uma prévia do mesmo no arquivo PDF incluído neste repositório. Entretanto, alguns gráficos exportados de fora não são possíveis de ver no pdf.**
 
 
 ## Objetivo
